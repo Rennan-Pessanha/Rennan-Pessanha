@@ -1,4 +1,4 @@
-<h1> Olá, bem vindo(a) ao meu Github </h1> 
+<h3> Olá, bem vindo(a) ao meu Github, sou um desenvolvedor Front-End iniciante e programador Javascript. </h3> 
 
 <div align="center">
   <a href="https://github.com/Rennan-Pessanha">
