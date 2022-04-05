@@ -1,4 +1,4 @@
-<h3> Olá, me chamo Rennan, um desenvolvedor Front-End iniciante!!! </h3> 
+<h3> Olá, me chamo Rennan, um desenvolvedor Front-End! </h3> 
 
 <div align="center">
   <a href="https://github.com/Rennan-Pessanha">
