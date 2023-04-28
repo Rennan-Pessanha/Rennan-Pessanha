@@ -1,4 +1,4 @@
-<h3> Olá, me chamo Rennan, um desenvolvedor Front-End! </h3> 
+<h3> 👨‍💻 Sou um desenvolvedor Front-end com habilidades em HTML, CSS e JavaScript (ReactJS). 💼 Tenho um portfólio sólido e diversificado, incluindo projetos freelancers. 📚 Atualmente, estou ampliando meus conhecimentos em programação e aprendendo a linguagem C#. 🚀 Sou apaixonado por tecnologia e inovação e sempre estou em busca de novos desafios e oportunidades de aprendizado. 🤝 Gostaria de compartilhar ideias sobre projetos e soluções de desenvolvimento web? Estou aberto a novas conexões e parcerias! </h3> 
 
 <div align="center">
   <a href="https://github.com/Rennan-Pessanha">
